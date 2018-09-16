@@ -27,4 +27,8 @@
     <!-- QSB -->
     <string name="label_search">Search</string>
     <string name="label_voice_search">Voice search</string>
+
+    <string name="allow_swipe_down_clearall_title">Clear all on swipe down from recents view</string>
+    <string name="allow_swipe_down_clearall_desc">Will work only on newer Recents App view (i.e Android Pie)</string>
+
 </resources>
